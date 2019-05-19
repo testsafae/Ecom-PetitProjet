@@ -1,5 +1,5 @@
 # Ecom-PetitProjet
-this is a little projetct that make you initiat in the web world . I will post the desciption in a separate file to make you follow the
+
 
                                             Plateforme E-Commerce 
  
